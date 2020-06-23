@@ -350,7 +350,8 @@ Once complete and running, the LEDs should display an incrementing value in bina
 
 > **Note**: If the LEDs don't light up, turn them around - it is easy to put them in the wrong way.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XAMVzS13HY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Blinking LEDs](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](http://www.youtube.com/watch?v=XAMVzS13HY0 "Blinking LEDs")
+Click the image to view a video
 
 OK - so now we have worked out how to flash some LEDs by using some pins in output mode. Let's add a switch to our circuit and use it to reset count.
 
